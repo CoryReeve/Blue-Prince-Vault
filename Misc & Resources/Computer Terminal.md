@@ -9,5 +9,9 @@ Default Functionality:
 
 [[Laboratory]]
 Default Functionality:
+- Experiment Setup
+- Research Logs
+- Pause Experiment
+- Login to Network
 
 [[Shelter]]

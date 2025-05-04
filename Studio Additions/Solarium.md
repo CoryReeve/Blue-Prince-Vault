@@ -1,7 +1,9 @@
 Cost: 1 [[Gems]]
 A quaint floral sitting room surrounded entirely by tinted glass panes. The Solarium is ideal for tea in the afternoons or getting some sun without the hassle of going outside.
 
-You are more likely to draw Unusual and Rare rooms while drafting
+You are more likely to draw Unusual and Rare rooms while drafting.
+
+Contains one of the [[Puzzle Boxes]] with an [[Allowance Token]]
 
 Added via the [[Drafting Studio]]
 Type: [[Green Rooms]], [[Dead End]], [[Addition]]
