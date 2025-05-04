@@ -1,0 +1,9 @@
+- [[Drawing Room]]: 0415
+- [[Boudoir]]: 1225
+- [[Office]]: 0303
+- [[Study]]: 1208
+- [[Drafting Studio]]: 1108
+- [[The Underpass]] Gate: MAY8
+- [[Shelter]] Time-Lock Safe:
+	- Day 1 is November 7
+	- Days begin at 8AM

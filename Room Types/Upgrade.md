@@ -1,0 +1,1 @@
+This room has been upgraded using an [[Upgrade Disk]].

@@ -1,0 +1,4 @@
+- __*Commonplace:*__ Commonplace Floorplans are often classified by conservationists as the 'weeds' of the drafting pool, for their overabundance prevents other less common rooms from flourishing on the estate.
+- __*Standard:*__ Standard rooms are of the garden-variety, not common enough to be a nuisance and not rare enough to be elusive.
+- __*Unusual:*__ Unusual is a term reserved for the floorplans that are encountered on occasion, the infrequency of which may contribute to their apparent prestige.
+- __*Rare:*__ Rare flora and floorplans are seen so seldom and represented in so few numbers that they are considered by many to be endangered. Without serious conservation efforts, many of these rare specimens may never be seen.

@@ -1,0 +1,1 @@
+Provides permanent access to the [[West Path]] and exterior rooms

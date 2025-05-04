@@ -1,0 +1,4 @@
+- [[Steps]]
+- [[Keys]]
+- [[Gems]]
+- [[Gold]]

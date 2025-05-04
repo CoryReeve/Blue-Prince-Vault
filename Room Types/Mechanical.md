@@ -1,0 +1,1 @@
+A room in [[Blue Prince]] that has or is related to machinery.

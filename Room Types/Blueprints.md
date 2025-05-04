@@ -1,0 +1,47 @@
+Standard Room Type in [[Blue Prince]]
+- 001:
+- 002: [[Entrance Hall]]
+- 003: [[Spare Room]]
+- 004:
+- 005: [[Parlor]]
+- 006: [[Billiard Room]]
+- 007:
+- 008:
+- 009: [[Closet]]
+- 010: [[Walk-In Closet]]
+- 011:
+- 012: [[Storeroom]]
+- 013: [[Nook]]
+- 014: [[Garage]]
+- 015: [[Music Room]]
+- 016: [[Locker Room]]
+- 017: [[Den]]
+- 018: [[Wine Cellar]]
+- 019:
+- 020:
+- 021: [[Pantry]]
+- 022: [[Rumpus Room]]
+- 023:
+- 024: [[Office]]
+- 025: [[Drawing Room]]
+- 026: [[Study]]
+- 027: [[Library]]
+- 028:
+- 029: [[The Pool]]
+- 030: [[Drafting Studio]]
+- 031: [[Utility Closet]]
+- 032: [[Boiler Room]]
+- 033: [[Pump Room]]
+- 034: [[Security]]
+- 035: [[Workshop]]
+- 036: [[Laboratory]]
+- 037: [[Sauna]]
+- 038: [[Coat Check]]
+- 039: [[Mail Room]]
+- 040:
+- 041: [[Dining Room]]
+- 042: [[Observatory]]
+- 043: [[Conference Room]]
+- 044: [[Aquarium]]
+- 045: [[Antechamber]]
+- 046: [[Room 46]]

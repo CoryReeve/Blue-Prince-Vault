@@ -1,0 +1,1 @@
+A room type in [[Blue Prince]] that has an effect on the following day.
