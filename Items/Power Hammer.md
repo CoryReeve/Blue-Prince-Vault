@@ -1,4 +1,9 @@
-Built using: [[Sledgehammer]] + [[Broken Lever]] + [[Battery Pack]]
+A circuited Power Hammer
+A stronger Sledge Hammer that can also knock down weaker brick walls.
+
+Built using: [[Sledge Hammer]] + [[Broken Lever]] + [[Battery Pack]]
+
+![[PowerHammer.png]]
 
 Can break through weakened walls:
 - [[Greenhouse]]

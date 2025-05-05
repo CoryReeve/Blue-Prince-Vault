@@ -2,7 +2,7 @@ One of the many nondescript hallways snaking through the estate and providing el
 
 Upgrades:
 - +1 [[Keys]]
-- +1 [[Locked Chests]]
+- +1 [[Locked Trunk]]
 - Add an extra Hallway to tomorrow's draft pool
 
 Type: [[Hallways]]

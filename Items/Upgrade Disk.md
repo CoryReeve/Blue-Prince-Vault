@@ -6,7 +6,7 @@ Terminals:
 - [[Office]]
 - [[Laboratory]]
 - [[Shelter]]
-- [[Blackbridge Grotto]]
+- [[Estate Grounds/Blackbridge Grotto]]
 
 Disk Locations:
 - [[Office]]

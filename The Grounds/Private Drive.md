@@ -1,1 +1,1 @@
-Connects [[The Grounds]] to [[Blackbridge Grotto]] and 
+Connects [[The Grounds]] to [[Estate Grounds/Blackbridge Grotto]] and 

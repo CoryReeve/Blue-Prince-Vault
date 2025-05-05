@@ -2,5 +2,8 @@ An exercise room outfitted with weightlifting equipment. A good workout session 
 
 Lose half your [[Steps]]
 
+Secret:
+Break the wall behind the Heavy Bag using a [[Power Hammer]] to access a level that opens the Southern [[Antechamber]] door.
+
 Type: [[Red Rooms]]
 Base [[Rarity]]: Rare

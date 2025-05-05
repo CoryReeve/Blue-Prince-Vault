@@ -6,7 +6,7 @@ Reservoir
 - Drain completely for access to chests with 2x [[Allowance Token]] and [[Sanctum Key]]
 
 Pool
-- Drain for access to [[Locked Chests]] once "Swim Trunks" have been purchased from the [[Gift Shop]]
+- Drain for access to [[Locked Trunk]] once "Swim Trunks" have been purchased from the [[Gift Shop]]
 
 Kitchen
 - Fill to use sink

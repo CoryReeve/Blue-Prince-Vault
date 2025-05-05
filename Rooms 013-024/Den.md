@@ -2,7 +2,7 @@ A more traditional family room, warm and inviting. So comfortable, one might ass
 
 Contains: 1 [[Gems]]
 
-Sometimes has a [[Locked Chests]]
+Sometimes has a [[Locked Trunk]]
 
 Type: [[Blueprints]]
 Base Rarity: Commonplace
