@@ -6,7 +6,7 @@ These are all of my notes and information that I have collected regarding the ga
 
 __*WARNING:*__ Contains massive spoilers. Do not even poke around in here if you're concerned about spoiling puzzles or story elements.
 
-Floorplan Types:
+### Floorplan Types:
 - [[Blueprints]]
 - [[Bedrooms]]
 - [[Green Rooms]]
@@ -16,4 +16,8 @@ Floorplan Types:
 
 [[Items]]
 
-[[Safe Codes]]
+### Secrets
+- [[Safe Codes]]
+### Strategies:
+- [[The Nuclear Option]]
+- [[Reservoir Trading Post Farm]]

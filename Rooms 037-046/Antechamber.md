@@ -2,5 +2,7 @@ From its room meaning "*The Room Before*", all signs and paths point toward the 
 
 ![[Antechamber.png]]
 
+Walking into this room reveals a pedestal with the [[Basement Key]] on it. Will also have an [[Allowance Token]] if you chose the Quest Bedroom upgrade.
+
 Type: [[Blueprints]], [[Objective]]
 Rarity: n/a

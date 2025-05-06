@@ -2,7 +2,7 @@
 - [[Boudoir]]
 - [[Guest Bedroom]]
 - [[Nursery]]
-- Bedroom 5
+- [[Servant's Quarters]]
 - [[Bunk Room]]
-- Bedroom 7
-- Bedroom 8
+- [[Her Ladyship's Chamber]]
+- [[Master Bedroom]]

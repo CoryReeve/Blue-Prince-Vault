@@ -1,6 +1,7 @@
 __*Conditions:*__
 - Triggering experiments setup in the [[Laboratory]] raises the Radiation Levels on the Estate.
 - When Radiation Levels get high enough (4 or more Successful Triggers), all normal doors in the Estate will be unlocked.
+__*This includes all the doors in the [[Great Hall]]!*__
 
 Setup Options:
 (Without [[Blackbridge Grotto]] unlocked)
@@ -9,7 +10,9 @@ Setup Options:
 3. Draft the [[Laboratory]] in the Estate
 4. Setup an experiment that you can trigger at least 4 times
 5. Once you have triggered the experiment 4 times, use any [[Computer Terminal]] you have available. Login to the Network and use the Network Connection to access the [[Shelter]] computer.
-6. Use the Main Menu of the Shelter computer to take a Radiation Reading. All doors will unlock.
+6. From the Main Menu of the Shelter computer:
+	1. Radiation Monitor
+	2. Take uSv measurement
 
 If you have [[Blackbridge Grotto]] unlocked, you do not need to draft [[Shelter]] to enact The Nuclear Option. Simply use the Shelter as your daily "Offline Connection" provided by the Grotto.
 

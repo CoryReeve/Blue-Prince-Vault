@@ -8,6 +8,7 @@ Inventory:
 - Master Key - 80 [[Gold]] - Opens all normal doors
 - Chronograph - 30 [[Gold]] - While drafting you may Rewind Time after drawing new Floorplans. You are more likely to draw [[Tomorrow]] Rooms while drafting.
 - Silver Spoon - 30 [[Gold]] - Whenever you gain [[Steps]] from eating, gain twice that many steps.
+- Ornate Compass - 50 [[Gold]] - While drafting, you may rotate the first three floorplans you draw
 
 Type: [[Shops]]
 Base [[Rarity]]: Rare
