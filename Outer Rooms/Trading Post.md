@@ -6,5 +6,5 @@ Secret:
 - Light the dynamite with a [[Burning Glass]] to blow a Permanent hole in the wall
 - New room contains and [[Upgrade Disk]] and [[Gold]]s
 
-Type: [[Shops]], [[Dead End]], [[Outer Room]]
+Type: [[Shops]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

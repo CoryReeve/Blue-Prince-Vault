@@ -6,13 +6,19 @@ These are all of my notes and information that I have collected regarding the ga
 
 __*WARNING:*__ Contains massive spoilers. Do not even poke around in here if you're concerned about spoiling puzzles or story elements.
 
-### Floorplan Types:
-- [[Blueprints]]
+### Floorplan Categories:
+- [[Rooms 001-012]]
+- [[Rooms 013-024]]
+- [[Rooms 025-036]]
+- [[Rooms 037-046]]
 - [[Bedrooms]]
+- [[Hallways]]
 - [[Green Rooms]]
 - [[Shops]]
 - [[Red Rooms]]
-- [[Outer Room]]
+- [[Studio Additions]]
+- [[Found Floorplans]]
+- [[Outer Rooms]]
 
 [[Items]]
 

@@ -2,5 +2,5 @@ An underground store of jarred vegetables and fruits from Mount Holly's gardens.
 
 Rooms in your house will be more likely to contain *dig spots* today.
 
-Type: [[Green Rooms]], [[Dead End]], [[Outer Room]]
+Type: [[Green Rooms]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

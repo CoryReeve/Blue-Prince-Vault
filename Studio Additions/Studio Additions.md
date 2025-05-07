@@ -1,0 +1,5 @@
+- [[Dovecote]]
+- [[The Kennel]]
+- [[Clock Tower]]
+- [[Classroom]]
+- [[Solarium]]

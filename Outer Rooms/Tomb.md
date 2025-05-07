@@ -18,5 +18,5 @@ Secrets:
 	- Queen Angel w/ Scepter and Shield
 - Activate scythe held by Statue of Draxus to 
 
-Type: [[Blackprint]], [[Dead End]], [[Outer Room]]
+Type: [[Blackprint]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

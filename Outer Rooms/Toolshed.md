@@ -2,5 +2,5 @@ A simple shed with a variety of tools used by the groundskeepers in the course o
 
 Contains 2 special [[Items]]
 
-Type: [[Blueprints]], [[Dead End]], [[Outer Room]]
+Type: [[Blueprints]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

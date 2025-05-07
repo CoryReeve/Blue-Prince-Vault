@@ -4,7 +4,7 @@ Room type drafted via the [[West Path]]
 - [[Shelter]]
 - [[Schoolhouse]]
 - [[Shrine]]
-- Outer Room 5
+- [[Root Cellar]]
 - [[Hovel]]
 - [[Trading Post]]
 - [[Tomb]]

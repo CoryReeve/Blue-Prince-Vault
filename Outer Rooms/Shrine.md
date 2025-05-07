@@ -7,11 +7,12 @@ Make an offering, Receive a blessing.
 3. High Roller - 3 Days
 4. High Roller - 3 Days
 5. Blessing of the Gardener - 3 Days
+6. Blessing of the Gardener - 3 Days
 
 Blessings:
 - Dancer: While drafting, you may pay [[Gems]] to rotate rooms
 - High Roller: Gain 2 [[Ivory Dice]] when drafting a shop. Gain 5 [[Gold]] when using Dice
 - Gardener: Add 8 [[Courtyard]] to your draft pool
 
-Type: [[Blueprints]], [[Dead End]], [[Outer Room]]
+Type: [[Blueprints]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

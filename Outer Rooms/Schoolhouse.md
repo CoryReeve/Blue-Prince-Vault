@@ -7,5 +7,5 @@ Adds 8 [[Classrooms]] to today's Draft Pool
 Secret
 - Contains one of the gas valves to unlock the Elevator on [[The Grounds]]
 
-Type: [[Drafting]], [[Blueprints]], [[Dead End]], [[Outer Room]]
+Type: [[Drafting]], [[Blueprints]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual

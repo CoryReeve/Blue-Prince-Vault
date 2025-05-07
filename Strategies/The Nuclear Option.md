@@ -5,7 +5,7 @@ __*This includes all the doors in the [[Great Hall]]!*__
 
 Setup Options:
 (Without [[Blackbridge Grotto]] unlocked)
-1. Draft [[Shelter]] as your [[Outer Room]]
+1. Draft [[Shelter]] as your [[Outer Rooms]]
 2. Go inside and access the [[Computer Terminal]]. Just to make sure it's online.
 3. Draft the [[Laboratory]] in the Estate
 4. Setup an experiment that you can trigger at least 4 times

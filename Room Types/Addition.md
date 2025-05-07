@@ -1,3 +1,1 @@
 Floor Plans found within the Estate or on the grounds, or added to the pool by drafting another room.
-
-- [[Planetarium]] - Found in a compartment within the telescope in the [[Observatory]]

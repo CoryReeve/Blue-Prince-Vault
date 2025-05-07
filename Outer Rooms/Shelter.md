@@ -10,5 +10,5 @@ Safe Contents:
 - 1 [[Gems]]
 - [[Red Letter]]
 
-Type: [[Blueprints]], [[Dead End]], [[Outer Room]]
+Type: [[Blueprints]], [[Dead End]], [[Outer Rooms]]
 Base [[Rarity]]: Unusual
