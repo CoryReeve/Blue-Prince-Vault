@@ -3,5 +3,9 @@ A roofed outdoor seating area located along the perimeter of the estate. During 
 
 Spread [[Gems]] in each Green Room
 
+Secret:
+- File Cabinet Key can be found by digging near the grill with a [[Jack Hammer]]
+  ![[PatioFileCabinetKey.png]]
+
 Type: [[Spread]], [[Green Rooms]]
 Base [[Rarity]]: Standard

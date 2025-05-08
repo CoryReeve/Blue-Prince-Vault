@@ -3,8 +3,15 @@ As an architect and engineer, it was not uncommon to find your great uncle spend
 
 Select a new floorplan to *permanently* add to your estate's draft pool.
 
-[[Safe Codes]]: 1108
 *Magnifying glass is required to be able to enter the code on the tiny paper safe on one of the drafting tables.*
+![[DraftingStudioSafe01.png]]
+
+![[DraftingStudioSafe02.png]]
+
+![[DraftingStudioSafe03.png]]
+
+[[Safe Codes]]: 1108
+
 Safe Contents:
 - 1 [[Gems]]
 - [[Red Letter]]

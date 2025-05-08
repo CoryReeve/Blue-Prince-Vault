@@ -5,5 +5,10 @@ Safe Contains:
 - 1 [[Gems]]
 - [[Red Letter]]
 
+Upgrades:
+- +1 [[Gems]]
+- +2 [[Ivory Dice]]
+- +3 [[Apple]]
+
 Type: [[Bedrooms]]
 Base Rarity: Standard

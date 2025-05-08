@@ -7,7 +7,12 @@ Adjust the rarity of Floorplans in your house.
 Type: [[Drafting]], [[Green Rooms]], [[Addition]]
 Base [[Rarity]]: Unusual
 
-Unlocked via digging with a [[Shovel]] at the [[Campsite]]
+Solve the riddle of the [[Sheet Music]]:
+__Find among the white trees under two stones__
+
+Dig at the spot near the white trees behind the [[Campsite]]
 ![[Conservatory01.png]]
+
 ![[Conservatory02.png]]
+
 ![[Conservatory03.png]]

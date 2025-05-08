@@ -21,9 +21,9 @@ __*WARNING:*__ Contains massive spoilers. Do not even poke around in here if you
 - [[Outer Rooms]]
 
 [[Items]]
-
-### Secrets
+### Secrets & Puzzles
 - [[Safe Codes]]
+- [[Sheet Music]]
 ### Strategies:
 - [[The Nuclear Option]]
 - [[Reservoir Trading Post Farm]]

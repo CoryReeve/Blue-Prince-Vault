@@ -4,10 +4,12 @@ A floorplan so secretive it had been removed from the drafting pool to avoid any
 
 West Antechamber Access
 - Align the Weather Vane to the West to access the lever to open the West Door of the [[Antechamber]]
+  ![[SecretGardenWest.png]]
 
 East Antechamber Access
 - Use a [[Power Hammer]] to break the wall and access a wheel to face the Weather Vane East
 - Align the Weather Vane to the East to access the lever to open the East Door of the [[Antechamber]]
+  ![[SecretGardenEast.png]]
 
 Type: [[Spread]], [[Green Rooms]]
 [[Rarity]]: Rare

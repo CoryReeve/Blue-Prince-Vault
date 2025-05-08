@@ -6,6 +6,6 @@ Looks like it could be useful for digging
 - Dig near the [[West Path]] bridge for a [[Microchip]]
 - Dig near corner of [[Basement]] to unlock [[Lost & Found]]
 
-Component of: [[Jackhammer]]
+Component of: [[Jack Hammer]]
 
 Type: [[Items]]

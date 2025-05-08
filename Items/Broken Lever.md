@@ -7,6 +7,6 @@ Handles to fix:
 
 Component:
 - [[Power Hammer]]
-- [[Jackhammer]]
+- [[Jack Hammer]]
 
 Type: [[Items]]

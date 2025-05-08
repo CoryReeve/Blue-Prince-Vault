@@ -5,7 +5,7 @@ The area in front of the Mt. Holly Estate. Accessed by exiting the front door of
 - Contains a second entrance to [[Basement]] access via the [[Power Hammer]]
 - Contains an elevator to [[The Precipice]] accessed via turning gas valves in the [[Apple Orchard]], [[Gemstone Cavern]], [[Hovel]], and [[Schoolhouse]].
 - Contains a tunnel full of crates that allows access to a door with the Blue Prince symbol on it
-	- Crates that need to be removed: 13 (7,6)
+	- Crates that need to be removed: 22 (7,6,9)
 
 To access the Blue Prince door:
 - Light the torches using [[Burning Glass]]

@@ -4,6 +4,8 @@ There has always been a history of things disappearing on the estate, including 
 
 Whenever you enter this room, you will lose one random inventory item.
 
+Also contains one of the [[Puzzle Boxes]] with an [[Allowance Token]] and an [[Upgrade Disk]]
+
 This Floorplan is added by using a [[Shovel]] to dig in the [[Basement]]:
 
 ![[LostFound01.png]]

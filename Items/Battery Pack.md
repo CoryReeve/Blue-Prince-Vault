@@ -3,7 +3,7 @@ Provides juice to battery-powered contraptions.
 
 Component of:
 - [[Power Hammer]]
-- [[Jackhammer]]
+- [[Jack Hammer]]
 - [[Electromagnet]]
 
 Type: [[Items]]

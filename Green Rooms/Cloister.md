@@ -6,5 +6,10 @@ Secret:
   ![[CloisterSolution.png]]
 - [[Allowance Token]] on the base behind the statue in the garden area
 
+Upgrades:
+- Cloister of Rynna - Raise your Luck for each Green Room you draft from this Cloister
+- Cloister of Dauja - Gain 2 [[Stars]] for each room with an animal you draft from this Cloister
+- Cloister of Draxus - Gain 4 [[Ivory Dice]] for each Dead-End room that you *will* draft from this Cloister
+
 Type: [[Green Rooms]]
 Base [[Rarity]]: Unusual
