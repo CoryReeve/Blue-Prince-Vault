@@ -8,6 +8,7 @@ Unlocked by opening the secret compartment in the Telescope in the [[Observatory
 Secret:
 - Bring a telescope here to upgrade the room
 	- ![[Planetarium_Fennmora.png]]
+	- ![[Planetarium_Mamora.png]]
 
 Type: [[Tomorrow]], [[Blueprints]], [[Dead End]], [[Addition]]
 Base Rarity: Standard
